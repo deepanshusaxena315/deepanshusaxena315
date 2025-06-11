@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineering undergrad at DTU | Actively seeking** summer internships (2025)** | Focused on Full-Stack Development<br><br>🔭 Currently working on:<br>An AI-powered short video generator<br><br>👯 Looking to collaborate on:<br>Open-source, web apps, and student-led tech projects (React, Next.js, Python).<br><br>🌱 Currently learning:<br>Next.js, TypeScript, Socket.io and brushing up on DSA.<br><br>⚡ Fun fact:<br>I can probably do more pull-ups than the number of Chrome tabs you have open right now 😄
+👨‍💻 Software Engineering undergrad at DTU | Actively seeking **summer internships (2025)** | Focused on Full-Stack Development<br><br>🔭 Currently working on:<br>An AI-powered short video generator<br><br>👯 Looking to collaborate on:<br>Open-source, web apps, and student-led tech projects (React, Next.js, Python).<br><br>🌱 Currently learning:<br>Next.js, TypeScript, Socket.io and brushing up on DSA.<br><br>⚡ Fun fact:<br>I can probably do more pull-ups than the number of Chrome tabs you have open right now 😄
 
 
 ## 🌐 Socials:
